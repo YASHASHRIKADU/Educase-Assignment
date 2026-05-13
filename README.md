@@ -1,4 +1,4 @@
-# Educase Assignment Frontend
+# Educase Frontend
 
 A React frontend project for the PopX mobile-style UI assignment.
 
